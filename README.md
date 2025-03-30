@@ -48,7 +48,7 @@ Want to improve the project? Contributions are welcome! Follow these steps:
 5. Create a pull request.
 
 ## 📧 Contact
-For any queries or suggestions, feel free to reach out to me via [[LinkedIn](https://www.linkedin.com/in/haritha-ganapathy-5a7720269/)](#) 
+For any queries or suggestions, feel free to reach out to me via [[LinkedIn](https://www.linkedin.com/in/haritha-ganapathy-5a7720269/)]
 
 ⭐️ Don't forget to give this repo a **star** if you like it!
 
