@@ -15,7 +15,7 @@ Welcome to **Parallax Startup Design** — a sleek, modern, and visually appeali
 **Parallax Startup Design** is crafted to create an immersive user experience with smooth scrolling effects that add depth to your content. The design is minimal yet impactful, making it ideal for startups looking to showcase their services, products, or ideas in a dynamic way. The parallax sections create a sense of movement, ensuring visitors stay engaged while exploring your site.
 
 ## 📸 Preview
-Check out the live demo [here](#) (Add your live link once hosted).
+Check out the live demo [here](#).
 
 ## 🛠️ Technologies Used
 - **HTML5** for structure
